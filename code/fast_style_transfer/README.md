@@ -83,8 +83,6 @@ python main.py stylize  --model-path='transformer.pth' \
 
 #### 效果
 
-![1539277410883](/home/huo/.config/Typora/typora-user-images/1539277410883.png)
+![result](result.png)
 
-![1539277458673](/home/huo/.config/Typora/typora-user-images/1539277458673.png)
-
-### 
+​		 ![style](style.png)
